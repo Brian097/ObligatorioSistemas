@@ -1,0 +1,36 @@
+cp: Permite copiar directorios y archivos entre diferentes ubicaciones, se puede usar el argumento '-R' para hacerlo recursivo
+rm: Permite remover un archivo o directorio, utilize 'man rm' para saber más
+cp: Permite copiar archivos o directorios entre ubicaciones. Con -R copia directorios de forma recursiva.
+rm: Permite eliminar archivos o directorios. Con -r elimina directorios completos. Consulte 'man rm' para más detalles.
+mv: Mueve o renombra archivos y directorios. Útil para reorganizar carpetas.
+touch: Crea archivos vacíos o actualiza la fecha de modificación de archivos existentes.
+mkdir: Crea directorios. Con -p crea rutas completas sin errores.
+rmdir: Elimina directorios vacíos.
+ls: Lista archivos y directorios. Con -l muestra detalles; con -a incluye archivos ocultos.
+cat: Muestra el contenido de un archivo en pantalla.
+more: Muestra un archivo página por página.
+less: Permite navegar dentro de un archivo más cómodamente que more.
+grep: Busca texto dentro de archivos utilizando patrones.
+sed: Edita texto de forma automática línea por línea.
+awk: Procesa texto en columnas, útil para filtrar o transformar datos.
+sort: Ordena líneas de texto alfabética o numéricamente.
+uniq: Elimina líneas duplicadas consecutivas.
+echo: Muestra texto o lo envía a archivos con redirecciones.
+read: Permite leer entrada del usuario en un script.
+chmod: Cambia permisos de archivos y directorios.
+chown: Cambia propietario y grupo de archivos.
+ps: Muestra procesos activos.
+kill: Finaliza procesos usando su PID.
+df: Muestra el espacio disponible en sistemas de archivos.
+du: Muestra el tamaño de archivos y directorios.
+file: Indica el tipo real de un archivo.
+history: Muestra comandos ejecutados anteriormente.
+whoami: Muestra el usuario actual.
+pwd: Muestra el directorio actual.
+cd: Cambia de directorio.
+bash: Intérprete de comandos más común para scripts.
+sh: Shell estándar, compatible pero más limitado que Bash.
+#!/bin/bash: Shebang que indica que un script se ejecuta con Bash.
+>: Redirección que sobrescribe un archivo.
+>>: Redirección que agrega contenido sin borrar lo anterior.
+|: Pipe que conecta la salida de un comando con la entrada de otro.
