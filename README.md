@@ -69,5 +69,5 @@ Permite editar un término existente.
 
 ## 👤 Autores
 
-- **Brian Baldivieso**  
-- **Iván Ibañez**
+- **Brian Baldivieso - 56237477**  
+- **Iván Ibañez - 56813552**
