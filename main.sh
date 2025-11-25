@@ -1,5 +1,9 @@
 #!/bin/bash
 
+echo "Autores:"
+echo "Brian Baldivieso - 56237477"
+echo "Ivan Ibañez - 56813552"
+
 while true; do
     echo "===== GLOSARIO TÉCNICO ====="
     echo "1) Alta de término"

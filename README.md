@@ -34,7 +34,7 @@ glosarioSistemas/
 Ejecutar el script principal:
 
 ```bash
-./main.sh
+bash main.sh
 ```
 
 El menú mostrará todas las opciones disponibles.
